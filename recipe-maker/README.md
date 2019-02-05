@@ -2,7 +2,7 @@
 
 This app was inspired by my love of cooking/baking, and messy ways of referencing recipes. I created a simple and easy app to create and store recipes.
 
-This is a React application with a mongoDB server.
+This is a React application. Checkout the React-and-mongo branch for the version with a back-end.
 
 ## How to run the application
 
